@@ -151,8 +151,8 @@
   <build>
     <plugins>
       <plugin>
-        <groupId>org.apache.felix</groupId>
-        <artifactId>maven-bundle-plugin</artifactId>
+        <groupId>ru.ac.uniyar</groupId>
+        <artifactId>rvlasov1</artifactId>
         <version>4.2.0</version>
         <extensions>true</extensions>
         <configuration>
